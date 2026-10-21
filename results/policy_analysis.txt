@@ -1,0 +1,5 @@
+Same car as ETA: 64% of calls
+Stops already planned for the chosen car: learned 1.22, ETA 1.31
+Estimated arrival of the chosen car: learned 12.9, ETA 9.5 ticks
+up_peak: median gap between best and worst action value 1.9% (434 well-visited states)
+interfloor: median gap between best and worst action value 0.6% (806 well-visited states)

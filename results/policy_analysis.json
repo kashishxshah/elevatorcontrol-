@@ -1,0 +1,17 @@
+{
+ "eta_comparison_20_floors": {
+  "agree": 0.6374695863746959,
+  "q_stops": 1.221411192214112,
+  "e_stops": 1.3090024330900243,
+  "q_eta": 12.854014598540147,
+  "e_eta": 9.518248175182482
+ },
+ "value_gap_up_peak": {
+  "median_gap": 0.018797046432607205,
+  "states": 434
+ },
+ "value_gap_interfloor": {
+  "median_gap": 0.006167303511493494,
+  "states": 806
+ }
+}
